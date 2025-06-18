@@ -68,7 +68,7 @@ spring-ai-hospital-appointment-clientele-services/
 
 ### 主要版本：
 - **JDK21**
-- **SpringBoot3.4.5**
+- **SpringBoot 3.4.5**
 - **SpringAI 1.0.0**
 - **SpringAI Alibaba 1.0.0.2**
 
