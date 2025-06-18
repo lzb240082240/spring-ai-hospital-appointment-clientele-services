@@ -1,0 +1,16 @@
+com\example\springai\hospitalappointment\clienteleservices\entity\HospitalAppointment.class
+com\example\springai\hospitalappointment\clienteleservices\mapper\HospitalAppointmentMapper.class
+com\example\springai\hospitalappointment\clienteleservices\config\ToolCallAutoConfig.class
+com\example\springai\hospitalappointment\clienteleservices\config\ObservationConfig$3.class
+com\example\springai\hospitalappointment\clienteleservices\config\ObservationConfig$1.class
+com\example\springai\hospitalappointment\clienteleservices\config\ObservationConfig$2.class
+com\example\springai\hospitalappointment\clienteleservices\controller\ChatController.class
+com\example\springai\hospitalappointment\clienteleservices\tools\HospitalAppointmentTools.class
+com\example\springai\hospitalappointment\clienteleservices\config\ObservationConfig.class
+com\example\springai\hospitalappointment\clienteleservices\service\HospitalAppointmentService.class
+com\example\springai\hospitalappointment\clienteleservices\config\EsMemoryConfig.class
+com\example\springai\hospitalappointment\clienteleservices\assistant\HospitalAppointmentAssistant.class
+com\example\springai\hospitalappointment\clienteleservices\config\ObservationConfig$4.class
+com\example\springai\hospitalappointment\clienteleservices\SpringAiClienteleServicesApplication.class
+com\example\springai\hospitalappointment\clienteleservices\entity\UserChat.class
+com\example\springai\hospitalappointment\clienteleservices\service\impl\HospitalAppointmentServiceImpl.class
