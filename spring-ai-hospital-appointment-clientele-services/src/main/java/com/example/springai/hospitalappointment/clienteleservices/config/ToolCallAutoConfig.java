@@ -25,7 +25,7 @@ import org.springframework.context.annotation.Configuration;
 @ConditionalOnClass(HospitalAppointmentService.class)
 public class ToolCallAutoConfig {
     @Bean
-    public HospitalAppointmentTools timeTools(HospitalAppointmentService service) {
+    public HospitalAppointmentTools hospitalAppointmentTools(HospitalAppointmentService service) {
         return new HospitalAppointmentTools(service);
     }
 }
