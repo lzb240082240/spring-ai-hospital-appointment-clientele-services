@@ -1,4 +1,4 @@
-# Spring AI 医院预约客服系统
+# 基于 Spring AI Alibaba 医院预约客服系统
 
 ## 项目目录结构
 
